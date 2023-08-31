@@ -1,1 +1,1 @@
-this is my second readme
+the readme file for the 0x03-git directory
